@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# FastF1 cache
+cache/
+*.ff1pkl
+*.sqlite
+.ipynb_checkpoints/
